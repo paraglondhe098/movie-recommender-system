@@ -1,0 +1,8 @@
+(For jupyter)
+numpy
+seaborn
+matplotlib
+ast
+sklearn
+nltk
+re

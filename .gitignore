@@ -1,0 +1,6 @@
+#venv
+.idea/
+Data/
+Raw_data/
+setup.sh
+procfile
