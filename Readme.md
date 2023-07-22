@@ -18,5 +18,5 @@ Requirements are listed in requirements.txt for app file and requirements-jupyte
 * Run app.py using streamlit
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/paraglondhe098/movie-recommender-system/blob/master/Screenshot/AvatarExample.png)
 
