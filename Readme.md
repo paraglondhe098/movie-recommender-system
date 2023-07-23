@@ -21,5 +21,5 @@ Requirements are listed in requirements.txt for the app file and requirements-ju
 ```
 ## Screenshots
 
-![App Screenshot](https://github.com/paraglondhe098/movie-recommender-system/blob/master/Screenshot/AvatarExample.png)
+![App Screenshot](https://upload.wikimedia.org/wikipedia/commons/3/38/ScreenshotMRS.png)
 
